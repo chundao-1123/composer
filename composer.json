@@ -1,0 +1,14 @@
+{
+    "name": "chundao-1123/composer",
+    "description": "test project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "chundao",
+            "email": "1065168165@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
